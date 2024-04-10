@@ -1,0 +1,3 @@
+WeatherAPP to aplikacja mobilna wyprodukowana na telefony z systemem operacyjnym android. Aplikacja została stworzona z myślą o inżynierach działających w sektorze energii odnawialnej. 
+WeatherAPP zaciąga dane w postaci prędkości wiatru mierzonej w metrach na sekundę z zewnętrznego źródła a następnie przelicza je zwracając szacunkową produkcję prądu elektrycznego generowanego przez przeciętny wiatrak.
+Dane prędkości wiatru pobieramy w postaci API z Open Weather. W interfejsie aplikacji podajemy wspołżędne geograficzne lokalizacji dlaktórej chcemy wykonać pomiar. Po naciśnięciu przycisku aplikacja przelicza dane na podstawie wzoru i zwaraca wynik.
