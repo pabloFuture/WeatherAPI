@@ -1,0 +1,2 @@
+project(':settings.gradle.kts').projectDir = new File(rootDir, 'WeatherAPI/settings.gradle.kts')
+include ':settings.gradle.kts'
